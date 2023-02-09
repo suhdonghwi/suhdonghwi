@@ -1,5 +1,9 @@
-### 안녕하세요 👋
+### Hi there 👋
 
-컴퓨터와 관련된 것이라면 분야를 크게 가리지 않고 이것저것 배워가고 있는 서동휘라고 합니다.
+#### Interests
+- Programming Language Theory
+- Functional Programming
+- Web frontend
 
-- 🏫 [한국과학기술원(KAIST)](https://www.kaist.ac.kr/) 전산학부에 재학 중입니다.
+#### Contacts
+- Email : hwidongsuh@gmail.com
