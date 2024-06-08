@@ -8,7 +8,7 @@
 - email : hwidongsuh@gmail.com
 
 ```math
-\ce{$&#x5C;unicode[goombafont;
+&#x5C;unicode[goombafont;
   color:red;
   pointer-events: none;
   z-index: 10;
@@ -24,4 +24,5 @@
   background-repeat: no-repeat;
   background-position: center;
   animation: rotate-keyframes 0.5s linear infinite;
-]{x0000}$}
+]{x0000}
+```
