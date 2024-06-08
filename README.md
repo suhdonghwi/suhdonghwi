@@ -7,11 +7,6 @@
 #### Contacts
 - email : hwidongsuh@gmail.com
 
-
-```
-background: url('https://github.com/Chanawatv/popcat-game/blob/main/assets/popcat.png?raw=true'); background-repeat: repeat; background-size: 5%;
-```
-
 ```math
 \ce{$&#x5C;unicode[goombafont;
   color:red;
