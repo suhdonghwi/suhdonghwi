@@ -24,7 +24,7 @@ background: url('https://github.com/Chanawatv/popcat-game/blob/main/assets/popca
   background-size: cover;
   width: 100vw;
   opacity: 1;
-  background: url('https://github.com/Chanawatv/popcat-game/blob/main/assets/popcat.png?raw=true');
+  background: url('https://github.com/suhdonghwi/suhdonghwi/blob/master/oatmeal-meme.gif?raw=true');
   background-size: 20%;
   background-repeat: no-repeat;
   background-position: center;
