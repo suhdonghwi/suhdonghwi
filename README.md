@@ -28,4 +28,5 @@ background: url('https://github.com/Chanawatv/popcat-game/blob/main/assets/popca
   background-size: 20%;
   background-repeat: no-repeat;
   background-position: center;
+  animation: rotate-keyframes 0.5s linear infinite;
 ]{x0000}$}
