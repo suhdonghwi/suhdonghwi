@@ -4,5 +4,7 @@ Previously I worked at [Viva Republica (Toss)](https://toss.im/) for 2.5 years a
 
 I'm interested in programming language theory and frontend engineering. If there's an interesting topic you'd like to discuss, feel free to reach out.
 
-#### Contacts
+#### Hyperlinks
+
 - email : hwidongsuh@gmail.com
+- [curriculum vitae](https://github.com/suhdonghwi/cv/blob/main/cv.pdf)
