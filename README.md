@@ -6,5 +6,5 @@ I'm interested in programming language theory and frontend engineering. If there
 
 #### Hyperlinks
 
-- email : hwidongsuh@gmail.com
+- email: hwidongsuh@gmail.com
 - [curriculum vitae](https://github.com/suhdonghwi/cv/blob/main/cv.pdf)
